@@ -1,8 +1,12 @@
-# Finite Element Method for Gravitational Potential
+Projekt z równań różniczkowych i różnicowych 2023/2024 \\
+4.4 Potencjał grawitacyjny
 
-## Project Overview
+Rozwiązanie - [pdf](doc/obliczenia.pdf)
 
-This repository contains the final project for the Differential Equations course at AGH University of Science and Technology. The project focuses on the numerical approximation of the finite element method (FEM) applied to the differential equation governing gravitational potential.
+Użyta wersja Pythona i biblioteki
+python 3.11
+* numpy
+* matplotlib
+* tkinter
 
-![Task](path_to_image.png)
-
+Żeby zobaczyć wykres należy odpalić plik main.py
